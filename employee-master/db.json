@@ -1,0 +1,43 @@
+{
+  "employee": [
+    {
+      "name": "Digitals Prompt",
+      "email": "digitalsp@gmail.com",
+      "phone": "987654321",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "Ricky Ponting",
+      "email": "rapidd87@outlook.com",
+      "phone": "988990909",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@ymail.com",
+      "phone": "9089087672"
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "email": "kwin@gmail.com",
+      "phone": "9089087672"
+    },
+    {
+      "id": 5,
+      "name": "victor joe",
+      "email": "vicjoe@tel.com",
+      "phone": "9089087677"
+    },
+    {
+      "id": "ad5f",
+      "name": "mike turn",
+      "email": "turning@hotmail.com",
+      "phone": "098765445",
+      "active": true
+    }
+  ]
+}
